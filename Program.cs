@@ -1,4 +1,5 @@
-﻿namespace Labb_7___OOP_Polymorphism
+﻿//Josefin Mikaelsson .NET23
+namespace Labb_7___OOP_Polymorphism
 {
     internal class Program
     {
